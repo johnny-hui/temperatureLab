@@ -21,6 +21,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Temperature\Temperature.csproj" />
+    <ProjectReference Include="../Temperature/Temperature.csproj" />
   </ItemGroup>
 </Project>

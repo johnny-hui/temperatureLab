@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Johnny/Desktop/CST Term 4/COMP 4870 Workspace/Lab 5/TemperatureConversion/Temperature/Temperature.csproj",
+      "projectUniqueName": "/Users/Johnny/Desktop/CST Term 4/COMP 4870 Workspace/Lab 5/temperature/TemperatureConversion/Temperature/Temperature.csproj",
       "projectName": "Temperature",
-      "projectPath": "/Users/Johnny/Desktop/CST Term 4/COMP 4870 Workspace/Lab 5/TemperatureConversion/Temperature/Temperature.csproj",
+      "projectPath": "/Users/Johnny/Desktop/CST Term 4/COMP 4870 Workspace/Lab 5/temperature/TemperatureConversion/Temperature/Temperature.csproj",
       "packagesPath": "/Users/Johnny/.nuget/packages/",
-      "outputPath": "/Users/Johnny/Desktop/CST Term 4/COMP 4870 Workspace/Lab 5/TemperatureConversion/Temperature/obj/",
+      "outputPath": "/Users/Johnny/Desktop/CST Term 4/COMP 4870 Workspace/Lab 5/temperature/TemperatureConversion/Temperature/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/Johnny/.nuget/NuGet/NuGet.Config"

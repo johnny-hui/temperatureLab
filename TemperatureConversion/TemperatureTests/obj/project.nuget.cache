@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9PCR2sHdGtkRLeSFZr9f248HPX/xoHtVOGCIYLR4CZWAn9x+/PUvOO1jgNZyDG1p70JdtTs9Dap3fZSRRQhD2g==",
+  "dgSpecHash": "/dbZ51Ux5EvRurxehGK8ncfUYM1VBXYKmBxamlV4OiPcpVU0Rjbym8AoFqe1A11q34Ai1SOlWNqNykc2H2i5dA==",
   "success": true,
-  "projectFilePath": "/Users/Johnny/Desktop/CST Term 4/COMP 4870 Workspace/Lab 5/TemperatureConversion/TemperatureTests/TemperatureTests.csproj",
+  "projectFilePath": "/Users/Johnny/Desktop/CST Term 4/COMP 4870 Workspace/Lab 5/temperature/TemperatureConversion/TemperatureTests/TemperatureTests.csproj",
   "expectedPackageFiles": [
     "/Users/Johnny/.nuget/packages/coverlet.collector/3.1.0/coverlet.collector.3.1.0.nupkg.sha512",
     "/Users/Johnny/.nuget/packages/microsoft.codecoverage/16.11.0/microsoft.codecoverage.16.11.0.nupkg.sha512",

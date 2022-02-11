@@ -5994,11 +5994,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Johnny/Desktop/CST Term 4/COMP 4870 Workspace/Lab 5/TemperatureConversion/TemperatureTests/TemperatureTests.csproj",
+      "projectUniqueName": "/Users/Johnny/Desktop/CST Term 4/COMP 4870 Workspace/Lab 5/temperature/TemperatureConversion/TemperatureTests/TemperatureTests.csproj",
       "projectName": "TemperatureTests",
-      "projectPath": "/Users/Johnny/Desktop/CST Term 4/COMP 4870 Workspace/Lab 5/TemperatureConversion/TemperatureTests/TemperatureTests.csproj",
+      "projectPath": "/Users/Johnny/Desktop/CST Term 4/COMP 4870 Workspace/Lab 5/temperature/TemperatureConversion/TemperatureTests/TemperatureTests.csproj",
       "packagesPath": "/Users/Johnny/.nuget/packages/",
-      "outputPath": "/Users/Johnny/Desktop/CST Term 4/COMP 4870 Workspace/Lab 5/TemperatureConversion/TemperatureTests/obj/",
+      "outputPath": "/Users/Johnny/Desktop/CST Term 4/COMP 4870 Workspace/Lab 5/temperature/TemperatureConversion/TemperatureTests/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/Johnny/.nuget/NuGet/NuGet.Config"
@@ -6013,8 +6013,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/Users/Johnny/Desktop/CST Term 4/COMP 4870 Workspace/Lab 5/TemperatureConversion/Temperature/Temperature.csproj": {
-              "projectPath": "/Users/Johnny/Desktop/CST Term 4/COMP 4870 Workspace/Lab 5/TemperatureConversion/Temperature/Temperature.csproj"
+            "/Users/Johnny/Desktop/CST Term 4/COMP 4870 Workspace/Lab 5/temperature/TemperatureConversion/Temperature/Temperature.csproj": {
+              "projectPath": "/Users/Johnny/Desktop/CST Term 4/COMP 4870 Workspace/Lab 5/temperature/TemperatureConversion/Temperature/Temperature.csproj"
             }
           }
         }
