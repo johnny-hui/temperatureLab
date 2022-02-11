@@ -1,0 +1,56 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    ViewBag.Fahrenheit = "Fahrenheit";
+    ViewBag.Celcius = "Calcium";
+    ViewBag.Kelvin = "Kelvin";
+    ViewBag.Convert = "Convert >>";
+}
+<div id="titleContainer"> 
+    <h2>Temperature Conversion App</h2>
+
+@* Post Form option as parameter to HomeController *@
+<form action="/" method="post">
+        <div id="ConversionTableContainer">
+            <div id="leftBox">
+                <h2>FROM</h2>
+                <div class="dropdown">
+                @* TEMPERATURE INPUT (Parameter 1) => sent to Controller (as a STRING) *@
+                 <select name="from" class="form-select" aria-label="Default select example">
+                    <option selected>Conversion mode</option>
+                    <option value="Celsius">Celsius</option>
+                    <option value="Kelvin">Kelvin</option>
+                    <option value="Farenheit">Fahrenheit</option>
+                </select>
+            </div>
+        </div>
+
+        <div id="middleBox">
+            <button id="convertButton" type="submit"><b>@ViewBag.Convert</b></button>
+            <div id="resultsBiggerContainer">
+                <h4>RESULTS</h4>
+                <div id="resultsContainer">
+                    <div id="inputBox">
+                        @* INPUT (parameter 2) => sent to Controller (as a NUMBER) *@
+                        <input name="value" value=@ViewData["input"] type="number" step="any" class="form-control" id="inputForm" placeholder="Input Temperature"></input>
+                    </div>
+                    <div id="outputBox">
+                        <input id="outputForm" value=@ViewData["output"] class="form-control" disabled></input>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div id="rightBox">
+            <h2>TO</h2>
+                <div class="dropdown">
+                    @* TEMPERATURE INPUT (parameter 3) => sent to Controller (as a STRING) *@
+                    <select name="to" class="form-select" aria-label="Default select example">
+                        <option selected>Conversion mode</option>
+                        <option value="Celsius">Celsius</option>
+                        <option value="Kelvin">Kelvin</option>
+                        <option value="Farenheit">Fahrenheit</option>
+                    </select>
+                </div>
+        </div>
+</form>
+

@@ -1,0 +1,91 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Temperature/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Temperature.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Temperature.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Temperature/1.0.0": {
+      "type": "project",
+      "path": "../TemperatureConversion/Temperature/Temperature.csproj",
+      "msbuildProject": "../TemperatureConversion/Temperature/Temperature.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Temperature >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/Johnny/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/Johnny/Desktop/CST Term 4/COMP 4870 Workspace/Lab 5/TemperatureMVC/TemperatureMVC.csproj",
+      "projectName": "TemperatureMVC",
+      "projectPath": "/Users/Johnny/Desktop/CST Term 4/COMP 4870 Workspace/Lab 5/TemperatureMVC/TemperatureMVC.csproj",
+      "packagesPath": "/Users/Johnny/.nuget/packages/",
+      "outputPath": "/Users/Johnny/Desktop/CST Term 4/COMP 4870 Workspace/Lab 5/TemperatureMVC/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/Johnny/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "/Users/Johnny/Desktop/CST Term 4/COMP 4870 Workspace/Lab 5/TemperatureConversion/Temperature/Temperature.csproj": {
+              "projectPath": "/Users/Johnny/Desktop/CST Term 4/COMP 4870 Workspace/Lab 5/TemperatureConversion/Temperature/Temperature.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

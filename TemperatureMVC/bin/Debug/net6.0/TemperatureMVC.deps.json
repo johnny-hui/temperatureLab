@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TemperatureMVC/1.0.0": {
+        "dependencies": {
+          "Temperature": "1.0.0"
+        },
+        "runtime": {
+          "TemperatureMVC.dll": {}
+        }
+      },
+      "Temperature/1.0.0": {
+        "runtime": {
+          "Temperature.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TemperatureMVC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Temperature/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+/Users/Johnny/Desktop/CST Term 4/COMP 4870 Workspace/Lab 5/TemperatureConversion/Temperature/bin/Debug/net6.0/Temperature
+/Users/Johnny/Desktop/CST Term 4/COMP 4870 Workspace/Lab 5/TemperatureConversion/Temperature/bin/Debug/net6.0/Temperature.deps.json
+/Users/Johnny/Desktop/CST Term 4/COMP 4870 Workspace/Lab 5/TemperatureConversion/Temperature/bin/Debug/net6.0/Temperature.runtimeconfig.json
+/Users/Johnny/Desktop/CST Term 4/COMP 4870 Workspace/Lab 5/TemperatureConversion/Temperature/bin/Debug/net6.0/Temperature.dll
+/Users/Johnny/Desktop/CST Term 4/COMP 4870 Workspace/Lab 5/TemperatureConversion/Temperature/bin/Debug/net6.0/ref/Temperature.dll
+/Users/Johnny/Desktop/CST Term 4/COMP 4870 Workspace/Lab 5/TemperatureConversion/Temperature/bin/Debug/net6.0/Temperature.pdb
+/Users/Johnny/Desktop/CST Term 4/COMP 4870 Workspace/Lab 5/TemperatureConversion/Temperature/obj/Debug/net6.0/Temperature.csproj.AssemblyReference.cache
+/Users/Johnny/Desktop/CST Term 4/COMP 4870 Workspace/Lab 5/TemperatureConversion/Temperature/obj/Debug/net6.0/Temperature.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Johnny/Desktop/CST Term 4/COMP 4870 Workspace/Lab 5/TemperatureConversion/Temperature/obj/Debug/net6.0/Temperature.AssemblyInfoInputs.cache
+/Users/Johnny/Desktop/CST Term 4/COMP 4870 Workspace/Lab 5/TemperatureConversion/Temperature/obj/Debug/net6.0/Temperature.AssemblyInfo.cs
+/Users/Johnny/Desktop/CST Term 4/COMP 4870 Workspace/Lab 5/TemperatureConversion/Temperature/obj/Debug/net6.0/Temperature.csproj.CoreCompileInputs.cache
+/Users/Johnny/Desktop/CST Term 4/COMP 4870 Workspace/Lab 5/TemperatureConversion/Temperature/obj/Debug/net6.0/Temperature.dll
+/Users/Johnny/Desktop/CST Term 4/COMP 4870 Workspace/Lab 5/TemperatureConversion/Temperature/obj/Debug/net6.0/ref/Temperature.dll
+/Users/Johnny/Desktop/CST Term 4/COMP 4870 Workspace/Lab 5/TemperatureConversion/Temperature/obj/Debug/net6.0/Temperature.pdb
+/Users/Johnny/Desktop/CST Term 4/COMP 4870 Workspace/Lab 5/TemperatureConversion/Temperature/obj/Debug/net6.0/Temperature.genruntimeconfig.cache
